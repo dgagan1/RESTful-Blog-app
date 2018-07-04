@@ -1,6 +1,11 @@
 # RESTful-Blog-app
 A simple blog app made using RESTful routes in express js
 An express js app using node js and using semantic ui and MongoDB
+
+
+
+
+
 RESTful ROUTES included:
   INDEX: /blogs
          HTTP METHOD: GET
@@ -16,6 +21,10 @@ RESTful ROUTES included:
          HTTP METHOD: PUT
   DELETE: /blogs/:id
          HTTP METHOD: DELETE
+         
+         
+         
+         
 ![screenshot 99](https://user-images.githubusercontent.com/32305224/42283061-00faf7c8-7fc6-11e8-8005-58f920e09b42.png)
 ![screenshot 100](https://user-images.githubusercontent.com/32305224/42283062-013774e6-7fc6-11e8-8e0e-9c4b0ff44b2b.png)
 ![screenshot 101](https://user-images.githubusercontent.com/32305224/42283063-0172cf50-7fc6-11e8-839b-ad1906e4e9c9.png)
